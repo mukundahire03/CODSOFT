@@ -75,8 +75,6 @@ class CalculatorApp(QWidget):
             self.expression = ""
         elif button_text == '⌫':  # Backspace
             self.expression = self.expression[:-1]
-        elif button_text == '⌦':  # Delete
-            self.expression = ""
         elif button_text == CLEAR_HISTORY:
             self.clear_history()
         else:

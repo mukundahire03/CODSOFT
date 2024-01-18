@@ -4,14 +4,18 @@ A To-Do List application is a useful project that helps users manage
 and organize their tasks efficiently. This project aims to create a
 command-line or GUI-based application using Python, allowing
 users to create, update, and track their to-do lists.
+<p align="center">
+<img src="https://github.com/mukundahire03/CODSOFT/blob/main/To%20Do%20GUI%20Application/Screenshot%20from%202024-01-18%2013-36-53.png" height="150">
+</p>
 
-<img src="https://github.com/mukundahire03/CODSOFT/blob/main/To%20Do%20GUI%20Application/Screenshot%20from%202024-01-18%2013-36-53.png" width="100" height="100">
-
-### **[TASK 2: Calculator Gui Application](https://github.com/mukundahire03/CODSOFT/tree/main/Calculator%20GUI%20Apllication)** Design a simple calculator with basic arithmetic operations.
+### **[TASK 2: Calculator Gui Application](https://github.com/mukundahire03/CODSOFT/tree/main/Calculator%20GUI%20Apllication)** 
+Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 Perform the calculation and display the result.
 
-<img src="https://github.com/mukundahire03/CODSOFT/blob/main/Calculator%20GUI%20Apllication/Screenshot%20from%202024-01-19%2000-30-21.png" width="100" height="100">
+<p align="center">
+<img src="https://github.com/mukundahire03/CODSOFT/blob/main/Calculator%20GUI%20Apllication/Screenshot%20from%202024-01-19%2000-30-21.png" height="150" >
+</p>
 
 **TASK 3:** A password generator is a useful tool that generates strong and
 random passwords for users. This project aims to create a

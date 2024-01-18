@@ -10,7 +10,7 @@ A simple and intuitive calculator application built using PyQt5 in Python.
 - [Features](#features)
 - [Usage](#usage)
 - [Keyboard Shortcuts](#keyboard-shortcuts)
-- [Build and Run](#build-and-run)
+- [Installation](#installation)
 - [Dependencies](#dependencies)
 - [License](#license)
 
@@ -51,7 +51,7 @@ The Calculator App is a versatile Python application that provides a clean and u
 - **Delete:** Clear the entire expression.
 - **Escape:** Close the calculator application.
 
-## Build and Run
+## Installation
 
 Ensure you have PyQt5 installed.
 
@@ -66,7 +66,8 @@ python calculator_app.py
 - **PyQt5**
 
 ## License
-This project is licensed under the MIT License.
+
+This Calculator Application is licensed under the [MIT License](LICENSE).
 
 
 

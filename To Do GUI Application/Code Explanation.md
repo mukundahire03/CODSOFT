@@ -1,12 +1,12 @@
 ## 1. Importing Libraries
-import sys
-from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QPushButton, \
-    QMainWindow, QAction, QMessageBox, QFileDialog, QDialog, QDateEdit, QFormLayout, QLabel, QListWidget, QCheckBox, QListWidgetItem, QInputDialog, QComboBox, QDialogButtonBox
-from PyQt5.QtGui import QIcon
-from PyQt5.QtCore import Qt, QDate
-from sqlalchemy import create_engine, Column, Integer, String, Boolean, Date
-from sqlalchemy.orm import sessionmaker
-from sqlalchemy.orm import declarative_base
+    import sys
+    from PyQt5.QtWidgets import QApplication, QWidget, QVBoxLayout, QHBoxLayout, QLineEdit, QPushButton, \
+        QMainWindow, QAction, QMessageBox, QFileDialog, QDialog, QDateEdit, QFormLayout, QLabel, QListWidget, QCheckBox, QListWidgetItem, QInputDialog,            QComboBox, QDialogButtonBox
+    from PyQt5.QtGui import QIcon
+    from PyQt5.QtCore import Qt, QDate
+    from sqlalchemy import create_engine, Column, Integer, String, Boolean, Date
+    from sqlalchemy.orm import sessionmaker
+    from sqlalchemy.orm import declarative_base
 
 This section imports necessary modules and classes from PyQt5 and SQLAlchemy to build the GUI and interact with the database.
 

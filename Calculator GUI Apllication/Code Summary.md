@@ -18,6 +18,8 @@ A simple and intuitive calculator application built using PyQt5 in Python.
 
 The Calculator App is a versatile Python application that provides a clean and user-friendly interface for performing basic arithmetic calculations. It is built using the PyQt5 library, offering a responsive and interactive experience.
 
+![Calculator App](https://github.com/mukundahire03/CODSOFT/blob/main/Calculator%20GUI%20Apllication/Screenshot%20from%202024-01-19%2000-30-21.png)
+
 ## Features
 
 - **Responsive UI:** The application features a responsive user interface with separate displays for the current expression and calculation history.

@@ -15,7 +15,7 @@ This repository contains a simple Todo List Application developed using Python a
 
 The Todo List Application is a desktop application built using PyQt5 and SQLAlchemy. It provides a user-friendly interface to manage tasks efficiently. Users can perform various operations like adding new tasks, marking tasks as completed, editing task details, and saving/loading tasks to/from a file.
 
-![To Do App]([url_to_image](https://github.com/mukundahire03/CODSOFT/blob/main/To%20Do%20GUI%20Application/Screenshot%20from%202024-01-18%2013-36-53.png))
+![To Do App](https://github.com/mukundahire03/CODSOFT/blob/main/To%20Do%20GUI%20Application/Screenshot%20from%202024-01-18%2013-36-53.png)
 
 ### Installation
 

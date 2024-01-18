@@ -1,8 +1,8 @@
-# Calculator App
+### Calculator App
 
 A simple and intuitive calculator application built using PyQt5 in Python.
 
-## Table of Contents
+### Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -12,13 +12,13 @@ A simple and intuitive calculator application built using PyQt5 in Python.
 - [Dependencies](#dependencies)
 - [License](#license)
 
-## Overview
+### Overview
 
 The Calculator App is a versatile Python application that provides a clean and user-friendly interface for performing basic arithmetic calculations. It is built using the PyQt5 library, offering a responsive and interactive experience.
 
 ![Calculator App](https://github.com/mukundahire03/CODSOFT/blob/main/Calculator%20GUI%20Apllication/Screenshot%20from%202024-01-19%2000-30-21.png)
 
-## Features
+### Features
 
 - **Responsive UI:** The application features a responsive user interface with separate displays for the current expression and calculation history.
 
@@ -30,7 +30,7 @@ The Calculator App is a versatile Python application that provides a clean and u
 
 - **Error Handling:** The app includes error handling for invalid expressions, providing informative error messages.
 
-## Usage
+### Usage
 
 1. **Numeric Input:** Click on the numeric buttons (0-9) to input numbers into the expression.
 
@@ -44,14 +44,14 @@ The Calculator App is a versatile Python application that provides a clean and u
 
 6. **History:** View the calculation history, including successful results and any errors encountered.
 
-## Keyboard Shortcuts
+### Keyboard Shortcuts
 
 - **Enter/Return:** Calculate the current expression.
 - **Backspace:** Delete the last digit in the expression.
 - **Delete:** Clear the entire expression.
 - **Escape:** Close the calculator application.
 
-## Installation
+### Installation
 
 Ensure you have PyQt5 installed.
 
@@ -61,11 +61,11 @@ pip install PyQt5
 Run the calculator application using:
 python calculator_app.py
 
-## Dependencies
+### Dependencies
 
-- **PyQt5**
+- PyQt5
 
-## License
+### License
 
 This Calculator Application is licensed under the [MIT License](LICENSE).
 

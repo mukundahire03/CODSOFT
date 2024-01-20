@@ -43,8 +43,8 @@ This is a simple password generator desktop application built using PyQt5. The a
 #### Running the Application
 
 Run the following command in the terminal:   
-    ```bash
-    python password_generator_app.py
+
+      python password_generator_app.py
                     
 ### Usage
 
@@ -55,6 +55,8 @@ Run the following command in the terminal:
   5. Reset the options or generated password using the "Reset" button.
 
 ### Screenshots
+
+<div align="center"><img src="https://github.com/mukundahire03/CODSOFT/blob/main/Password%20Generator%20GUI%20Apllication/Screenshot%20from%202024-01-20%2017-24-56.png" height="200"></div> 
 
 ### License
 

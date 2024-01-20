@@ -27,6 +27,10 @@ Generate Password: Use a combination of random characters to
 generate a password of the specified length.
 Display the Password: Print the generated password on the screen.
 
+<p align="center">
+<img src="https://github.com/mukundahire03/CODSOFT/blob/main/Password%20Generator%20GUI%20Apllication/Screenshot%20from%202024-01-20%2017-24-56.png" height="150" >
+</p>
+
 **TASK 4:** User Input: Prompt the user to choose rock, paper, or scissors.
 Computer Selection: Generate a random choice (rock, paper, or scissors) for
 the computer.

@@ -20,18 +20,18 @@ The Todo List Application is a desktop application built using PyQt5 and SQLAlch
 ### Installation
 
 1. **Clone the Repository:**
-git clone https://github.com/yourusername/todo-list-app.git
-
-
+   ```bash
+    git clone https://github.com/yourusername/todo-list-app.git
+   
 2. **Install Dependencies:**
-pip install PyQt5 SQLAlchemy
-
+   ```bash
+   pip install PyQt5 SQLAlchemy
 
 ### Usage
 
 1. **Run the Application:**
-python todo_app.py
-
+   ```bash
+    python todo_app.py
 
 2. **Add Tasks:**
 - Enter the task details in the provided fields (Task Title, Description, Priority, Due Date).

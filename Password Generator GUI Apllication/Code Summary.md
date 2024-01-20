@@ -10,7 +10,6 @@ This is a simple password generator desktop application built using PyQt5. The a
   - [Installation](#installation)
   - [Running the Application](#running-the-application)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
 - [License](#license)
 
 
@@ -20,6 +19,8 @@ This is a simple password generator desktop application built using PyQt5. The a
 - Include uppercase letters, lowercase letters, digits, and symbols in the generated password.
 - Password strength indicator to evaluate the strength of the generated password.
 - User-friendly GUI with options to customize password generation.
+
+![Password Generator App](https://github.com/mukundahire03/CODSOFT/blob/main/Password%20Generator%20GUI%20Apllication/Screenshot%20from%202024-01-20%2017-24-56.png)
 
 ### Getting Started
 
@@ -53,10 +54,6 @@ Run the following command in the terminal:
   3. Choose character types to include in the password (Uppercase, Lowercase, Digits, Symbols).
   4. Click the "Generate" button to create a random password.
   5. Reset the options or generated password using the "Reset" button.
-
-### Screenshots
-
-<div align="center"><img src="https://github.com/mukundahire03/CODSOFT/blob/main/Password%20Generator%20GUI%20Apllication/Screenshot%20from%202024-01-20%2017-24-56.png" height="200"></div> 
 
 ### License
 

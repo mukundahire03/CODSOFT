@@ -56,10 +56,12 @@ The Calculator App is a versatile Python application that provides a clean and u
 Ensure you have PyQt5 installed.
 
 **You can install it using:**
-pip install PyQt5
+      
+    pip install PyQt5
 
 **Run the calculator application using:**
-python calculator_app.py
+  
+    python calculator_app.py
 
 ### Dependencies
 

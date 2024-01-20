@@ -17,7 +17,8 @@ Perform the calculation and display the result.
 <img src="https://github.com/mukundahire03/CODSOFT/blob/main/Calculator%20GUI%20Apllication/Screenshot%20from%202024-01-19%2000-30-21.png" height="150" >
 </p>
 
-**TASK 3:** A password generator is a useful tool that generates strong and
+### **[TASK 3: Password Generator Gui Application](https://github.com/mukundahire03/CODSOFT/tree/main/Password%20Generator%20GUI%20Apllication)** 
+A password generator is a useful tool that generates strong and
 random passwords for users. This project aims to create a
 password generator application using Python, allowing users to
 specify the length and complexity of the password.

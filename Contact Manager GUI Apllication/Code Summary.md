@@ -11,6 +11,8 @@ This is a simple Contact Manager application implemented in Python using the PyQ
 - [Databases](#database)
 - [License](#license)
 
+![Contact Manager App](https://github.com/mukundahire03/CODSOFT/blob/main/Contact%20Manager%20GUI%20Apllication/Screenshot%20from%202024-01-22%2017-32-31.png)
+
 ### Installation
 
 1. Ensure you have Python installed on your system.
